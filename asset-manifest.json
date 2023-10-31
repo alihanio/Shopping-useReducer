@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-useReducer/static/css/main.0347131c.css",
+    "main.js": "/Shopping-useReducer/static/js/main.7cb0bed6.js",
+    "static/media/strwberry.webp": "/Shopping-useReducer/static/media/strwberry.b325eae11371cfbbcb61.webp",
+    "static/media/Orange.png": "/Shopping-useReducer/static/media/Orange.8ccb386f9396997c5907.png",
+    "static/media/avacado.webp": "/Shopping-useReducer/static/media/avacado.fe01b16401d9b4163494.webp",
+    "index.html": "/Shopping-useReducer/index.html",
+    "main.0347131c.css.map": "/Shopping-useReducer/static/css/main.0347131c.css.map",
+    "main.7cb0bed6.js.map": "/Shopping-useReducer/static/js/main.7cb0bed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0347131c.css",
+    "static/js/main.7cb0bed6.js"
+  ]
+}
